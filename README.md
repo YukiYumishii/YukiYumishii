@@ -2,7 +2,7 @@
 
 **`Sobre mim`**
 
-Meu nome real é Davi Viana, tenho 19 anos e sou natural de Alagoas. Atualmente, estou cursando o primeiro período de Ciência da Computação pela `UNIT/UNIMA`. Gosto de tecnologia e estou sempre buscando expandir meus conhecimentos e habilidades na área. Atualmente, aprendendo a desenvolver em Python
+Meu nome é Davi Viana, tenho 19 anos e sou natural de Alagoas. Atualmente, estou cursando o segundo período de Ciência da Computação pela `UNIT/UNIMA`. Gosto de tecnologia e estou sempre buscando expandir meus conhecimentos e habilidades na área. Atualmente, aprendendo a desenvolver em Python
 
 <p align='left'>
     <a href="https://github.com/YukiYumishii?tab=followers">
